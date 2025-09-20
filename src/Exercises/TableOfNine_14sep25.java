@@ -4,16 +4,16 @@ public class TableOfNine_14sep25 {
     public static void main(String[] args) {
         int table = 9;
         System.out.println("9th table");
-        System.out.printf("%d * 1 = %d\n",table, 9);
-        System.out.printf("%d * 2 = %d\n",table, 9*2);
-        System.out.printf("%d * 3 = %d\n",table, 9*3);
-        System.out.printf("%d * 4 = %d\n",table, 9*4);
-        System.out.printf("%d * 5 = %d\n",table, 9*5);
-        System.out.printf("%d * 6 = %d\n",table, 9*6);
-        System.out.printf("%d * 7 = %d\n",table, 9*7);
-        System.out.printf("%d * 8 = %d\n",table, 9*8);
-        System.out.printf("%d * 9 = %d\n",table, 9*9);
-        System.out.printf("%d * 10 = %d\n",table, 9*10);
+        System.out.printf("%d X 1 = %d\n",table, 9);
+        System.out.printf("%d X 2 = %d\n",table, table*2);
+        System.out.printf("%d X 3 = %d\n",table, table*3);
+        System.out.printf("%d X 4 = %d\n",table, table*4);
+        System.out.printf("%d X 5 = %d\n",table, table*5);
+        System.out.printf("%d X 6 = %d\n",table, table*6);
+        System.out.printf("%d X 7 = %d\n",table, table*7);
+        System.out.printf("%d X 8 = %d\n",table, table*8);
+        System.out.printf("%d X 9 = %d\n",table, table*9);
+        System.out.printf("%d X 10 = %d\n",table, table*10);
     }
 
 
