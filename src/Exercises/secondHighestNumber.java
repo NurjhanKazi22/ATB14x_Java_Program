@@ -2,7 +2,7 @@ package Exercises;
 
 public class secondHighestNumber {
     public static void main(String[] args) {
-      int[] integerArray = {-5,-10,-2};
+      int[] integerArray = {12, 34, 10, 1, 100, 3, 4, 32};
       int firstHighest = Integer.MIN_VALUE;
       int secondHigh = Integer.MIN_VALUE;
 
