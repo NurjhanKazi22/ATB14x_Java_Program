@@ -10,7 +10,7 @@ public static void main(String[] args) {
     System.out.println("Enter String:");
     String s1 = scanner.nextLine();
     String[] wordsArray = s1.split(" ");
-    System.out.printf( "The string Constance %s of worlds "+wordsArray.length);
+    System.out.printf( "The string Constance %d worlds ",wordsArray.length);
 
 }
 }
